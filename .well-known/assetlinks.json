@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "lt.ekinzinerija.wishlist",
+      "sha256_cert_fingerprints": [
+        "68:11:A3:96:37:B2:8A:86:BA:C2:A6:AD:69:82:CB:1B:93:EF:48:52:07:3C:7A:7C:4F:A5:A5:4F:38:E8:9F:EF"
+      ]
+    }
+  }
+]
